@@ -2,6 +2,7 @@ package com.example.kotlinbasics
 
 fun main() {
 
+
     val fruits = setOf("orange", "apple", "grape", "mango", "apple", "orange")
     //print(fruits.size)
     //print(fruits.toSortedSet()) //organiza em ordem alfabética
